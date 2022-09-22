@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1663885221 source:d:\documentos\programacion\utn\2-segundocuatrimestre\1.programacion ii\ejerciciostipoparcial\modeloparcial1\main.cpp
+	<iostream>
+	"gestorejercicio.h"
+
+1663882504 d:\documentos\programacion\utn\2-segundocuatrimestre\1.programacion ii\ejerciciostipoparcial\modeloparcial1\empresas.h
+	<string.h>
+	<iostream>
+
+1663708826 source:d:\documentos\programacion\utn\2-segundocuatrimestre\1.programacion ii\ejerciciostipoparcial\modeloparcial1\categorias.cpp
+	"categorias.h"
+
+1663708909 d:\documentos\programacion\utn\2-segundocuatrimestre\1.programacion ii\ejerciciostipoparcial\modeloparcial1\categorias.h
+	<string.h>
+	<iostream>
+
+1663882486 source:d:\documentos\programacion\utn\2-segundocuatrimestre\1.programacion ii\ejerciciostipoparcial\modeloparcial1\empresas.cpp
+	"empresas.h"
+
+1663708958 source:d:\documentos\programacion\utn\2-segundocuatrimestre\1.programacion ii\ejerciciostipoparcial\modeloparcial1\municipios.cpp
+	"municipios.h"
+
+1663708911 d:\documentos\programacion\utn\2-segundocuatrimestre\1.programacion ii\ejerciciostipoparcial\modeloparcial1\municipios.h
+	<string.h>
+	<iostream>
+
+1663873980 d:\documentos\programacion\utn\2-segundocuatrimestre\1.programacion ii\ejerciciostipoparcial\modeloparcial1\include\funciones.h
+	<iostream>
+
+1663874637 source:d:\documentos\programacion\utn\2-segundocuatrimestre\1.programacion ii\ejerciciostipoparcial\modeloparcial1\src\funciones.cpp
+	"funciones.h"
+
+1663885409 source:d:\documentos\programacion\utn\2-segundocuatrimestre\1.programacion ii\ejerciciostipoparcial\modeloparcial1\gestorejercicio.cpp
+	"gestorejercicio.h"
+
+1663882571 d:\documentos\programacion\utn\2-segundocuatrimestre\1.programacion ii\ejerciciostipoparcial\modeloparcial1\gestorejercicio.h
+	"empresas.h"
+	"municipios.h"
+	"categorias.h"
+	"funciones.h"
+
